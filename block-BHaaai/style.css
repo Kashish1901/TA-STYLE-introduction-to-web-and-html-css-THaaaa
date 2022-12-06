@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+    color:whitesmoke;
+}
+h1{
+    font-size: 56px;
+}
+h2{
+    font-size: 40px;
+    color: green;
+}
+h3{
+   font-size: 35px;
+}
+img{
+    align-items: center;
+}
+header{
+    text-align:center;
+}
+a{
+    color:red;
+}
