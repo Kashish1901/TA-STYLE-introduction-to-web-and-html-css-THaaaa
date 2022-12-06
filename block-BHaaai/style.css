@@ -21,3 +21,7 @@ header{
 a{
     color:red;
 }
+.footer{
+    background-color: darkblue;
+    text-align: center;
+}
